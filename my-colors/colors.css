@@ -1,0 +1,12 @@
+body{
+    background-color:#748C1B;
+}
+p{
+    color: #1A2A40;
+    font-size: large;
+}
+h1{
+    background-color: #D9910D;
+    color: #1A2A40;
+    display: inline-block; 
+}
